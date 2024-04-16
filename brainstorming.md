@@ -64,4 +64,4 @@ Mobile App Dev - App Brainstorming Example
    - **Scope:** V1 will have the abilty for users to create the hiking collection with their reviews on their profile. v2 will let them add photos. V3 users will be able to see other people's posts on the feed and have a score/counter of hikes they went to. V4 users will get rewards/badges for the efforts. 
 
 
-
+Final App -  Budget Tracker. 
