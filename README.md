@@ -44,13 +44,8 @@ Optional:
 
 ### 1. User Stories (Required and Optional)
 
-* As a student, I want to be able to track my subscriptions and expenses, since I have to pay for them from my part-time job and scholarship money. I want to save up to pay off my student loans. 
-* ...
-
-**Optional Nice-to-have Stories**
-
-* [fill in your required user stories here]
-* ...
+* As a student, I want to be able to track my subscriptions and expenses, since I have to pay for them from my part-time job and scholarship money. I want to save up to pay off my student loans.
+* As a parent, I want to teach my teenage son how to manage his money and not overspend. 
 
 ### 2. Screen Archetypes
 
