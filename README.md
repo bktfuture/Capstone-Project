@@ -17,16 +17,30 @@ The app allows users to track their expenses. They can add the amount of money t
 
 ### App Evaluation
 
-[Evaluation of your app across the following attributes]
-- **Category:**
-- **Mobile:**
-- **Story:**
-- **Market:**
-- **Habit:**
-- **Scope:**
+- **Category:** Finance
+- **Mobile:**  Mobile is essential because of how much convenient it is. You can always check on what is going on wiht your money, insted of using PC. Users can visualize how much certain expenses will look in terms of their budget, set financial goals, and track their money. 
+- **Story:**  Users can visualize how much certain expenses will look in terms of their budget, set financial goals, and track their money.
+- **Story:** Any individual who is having an income/part-time/full-time employed will be interested in learning more about how they spend, and how to allocate their finances. 
+- **Market:** Users will check the app daily to check up on their finances, goals, and expenses. 
+- **Habit:** Any individual who has an income/part-time/full-time employed will be interested in learning more about how they spend, and how to allocate their finances. 
+- **Scope:** V1 would allow users to add their budget and see the categories. V2 would incorporate a feature where users can allocate money to chosen categories and see how much money they have left. V3 would add different types of assets: cash, debit, investments, and goal setting. V4 would incorporate investment calculators. V5 can be connected with Apple Wallet.
 
 ## Product Spec
-1. 
+🎯 A. Required and optional features
+- Budget. Users can add the amount of money they have and see the numbers on the main screen.
+- Users can add expenses and categorize them, that will show up on the main screen.
+- Setting up locks for some categories. If the users overspend, the category becomes red adn users are notified.
+Optional:
+- Useres can create an expenses plan to see how much they can spend.
+- Users can set up savings goals.
+- Users can see the charts of the most expenses. 
+
+🎯 B. Identify the screens in your app
+- Home Page / Dahsboard with Balance/ Income / Expenses
+- Transactions
+- Account Page
+
+🎯 C. Document your navigation flow
 
 ### 1. User Stories (Required and Optional)
 
