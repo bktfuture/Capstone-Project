@@ -79,12 +79,13 @@ Optional:
 And users can switch between tabs.
 
 ## Wireframes
-![image](https://github.com/bktfuture/Capstone-Project/assets/86029622/b69672ee-9a9d-4aa4-a4c8-2f4ff83789c7)
+
+![ol](https://github.com/bktfuture/Capstone-Project/assets/86029622/efc94512-709e-4dc8-bcd6-3a6f3d067424)
 
 
 
 ### [BONUS] Digital Wireframes & Mockups
-
+![image](https://github.com/bktfuture/Capstone-Project/assets/86029622/b69672ee-9a9d-4aa4-a4c8-2f4ff83789c7)
 
 
 ### [BONUS] Interactive Prototype
