@@ -83,6 +83,12 @@ And users can switch between tabs.
 ![ol](https://github.com/bktfuture/Capstone-Project/assets/86029622/efc94512-709e-4dc8-bcd6-3a6f3d067424)
 
 
+ <a href="https://www.loom.com/share/5fbe7fee861947828572f98f2b6a2619">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/5fbe7fee861947828572f98f2b6a2619-with-play.gif">
+    </a>
+ 
+
+
 
 ### [BONUS] Digital Wireframes & Mockups
 ![image](https://github.com/bktfuture/Capstone-Project/assets/86029622/b69672ee-9a9d-4aa4-a4c8-2f4ff83789c7)
