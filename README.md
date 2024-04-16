@@ -55,8 +55,8 @@ Optional:
 * Users can add balance, income, and expenses with the amount, date, category
 * Users can see updated numbers
 
-- [ ] [Transactions]
-* Users can see list of all transactions for the day
+- [ ] [Transactions Calendar]
+* Users can see the calendar and see a list of all transactions for the day
 
 - [ ] [Account]
 * Users will have savings account by default.
@@ -68,24 +68,24 @@ Optional:
 **Tab Navigation** (Tab to Screen)
 
 * [Dashboard]
-* [Transactions]
+* [Transactions Calendar]
 * [Account]
 
 **Flow Navigation** (Screen to Screen)
 
-- [ ] [list first screen here]
-* [list screen navigation here]
-* ...
-- [ ] [list second screen here]
-* [list screen navigation here]
-* ...
+- [ ] [Adding balance/income/expenses]
+  ==> Will goback to Home Screen after performing a task
+
+And users can switch between tabs.
 
 ## Wireframes
+![image](https://github.com/bktfuture/Capstone-Project/assets/86029622/b69672ee-9a9d-4aa4-a4c8-2f4ff83789c7)
 
-[Add picture of your hand sketched wireframes in this section]
-<img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
+
 
 ### [BONUS] Digital Wireframes & Mockups
+
+
 
 ### [BONUS] Interactive Prototype
 
