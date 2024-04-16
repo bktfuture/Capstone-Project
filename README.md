@@ -27,9 +27,11 @@ The app allows users to track their expenses. They can add the amount of money t
 
 ## Product Spec
 🎯 A. Required and optional features
-- Budget. Users can add the amount of money they have and see the numbers on the main screen.
+= Users can add their income and balance, expenses
+- When users will add expenses, balance should recalculate (same for the 
 - Users can add expenses and categorize them, that will show up on the main screen.
-- Setting up locks for some categories. If the users overspend, the category becomes red adn users are notified.
+- Setting up locks for some categories. If the users overspend, the category becomes red and users are notified.
+  
 Optional:
 - Users can create an expense plan to see how much they can spend.
 - Users can set up savings goals.
@@ -49,14 +51,19 @@ Optional:
 
 ### 2. Screen Archetypes
 
-- [ ] [list first screen here]
-* [list associated required story here]
-* ...
-list second screen here]
-* [list associated required story here]
-* ...
+- [ ] [DashBoard]
+* Users can add balance, income, and expenses with the amount, date, category
+* Users can see updated numbers
+
+- [ ][Transactions]
+* Users can see list of all transactions for the day
+
+- [ ][Account]
+* Users will ahve by default savings account.
+* Optional: Create own account
 
 ### 3. Navigation
+
 
 **Tab Navigation** (Tab to Screen)
 
