@@ -59,17 +59,17 @@ Optional:
 * Users can see list of all transactions for the day
 
 - [ ] [Account]
-* Users will ahve by default savings account.
-* Optional: Create own account
+* Users will have savings account by default.
+* Optional: Create your own account
 
 ### 3. Navigation
 
 
 **Tab Navigation** (Tab to Screen)
 
-* [fill out your first tab]
-* [fill out your second tab]
-* [fill out your third tab]
+* [Dashboard]
+* [Transactions]
+* [Account]
 
 **Flow Navigation** (Screen to Screen)
 
