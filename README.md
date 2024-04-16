@@ -1,7 +1,4 @@
-Original App Design Project - README Template
-===
-
-# APP_NAME_HERE
+# FinCode
 
 ## Table of Contents
 
@@ -12,9 +9,11 @@ Original App Design Project - README Template
 
 ## Overview
 
+FinCode is a personal finance tracker that lets users track their expenses and visualize their budgets.
+
 ### Description
 
-[Description of your app]
+The app allows users to track their expenses. They can add the amount of money they have and allocate it to each desired category. It will help users visualize how much money they can spend on each category to have healthy financial habits. Users can lock some categories, so if the users start to overspend, the app will send notifications and will "restrict" users from buying from that category again. 
 
 ### App Evaluation
 
@@ -27,6 +26,7 @@ Original App Design Project - README Template
 - **Scope:**
 
 ## Product Spec
+1. 
 
 ### 1. User Stories (Required and Optional)
 
