@@ -55,10 +55,10 @@ Optional:
 * Users can add balance, income, and expenses with the amount, date, category
 * Users can see updated numbers
 
-- [ ][Transactions]
+- [ ] [Transactions]
 * Users can see list of all transactions for the day
 
-- [ ][Account]
+- [ ] [Account]
 * Users will ahve by default savings account.
 * Optional: Create own account
 
