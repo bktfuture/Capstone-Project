@@ -31,12 +31,12 @@ The app allows users to track their expenses. They can add the amount of money t
 - Users can add expenses and categorize them, that will show up on the main screen.
 - Setting up locks for some categories. If the users overspend, the category becomes red adn users are notified.
 Optional:
-- Useres can create an expenses plan to see how much they can spend.
+- Users can create an expense plan to see how much they can spend.
 - Users can set up savings goals.
 - Users can see the charts of the most expenses. 
 
 🎯 B. Identify the screens in your app
-- Home Page / Dahsboard with Balance/ Income / Expenses
+- Home Page / Dashboard with Balance/ Income / Expenses
 - Transactions
 - Account Page
 
@@ -44,9 +44,7 @@ Optional:
 
 ### 1. User Stories (Required and Optional)
 
-**Required Must-have Stories**
-
-* [fill in your required user stories here]
+* As a student, I want to be able to track my subscriptions and expenses, since I have to pay for them from my part-time job and scholarship money. I want to save up to pay off my student loans. 
 * ...
 
 **Optional Nice-to-have Stories**
