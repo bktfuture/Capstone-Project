@@ -98,7 +98,7 @@ And users can switch between tabs.
 
 ## Schema 
 
-[This section will be completed in Unit 9]
+
 
 ### Models
 
@@ -107,5 +107,13 @@ And users can switch between tabs.
 ### Networking
 
 - [Add list of network requests by screen ]
-- [Create basic snippets for each Parse network request]
-- [OPTIONAL: List endpoints if using existing API such as Yelp]
+
+Sprint 2:
+[x] - Build Dashboard Screen
+[x] - Build Transaction Screen
+[x] -  Build Accounts Screen
+[x] - Put an icon for the app
+[x] - Build the item bar
+[x] - Build New Transaction Screen
+[] - Build the database
+[] - Ability to add income, expenses
