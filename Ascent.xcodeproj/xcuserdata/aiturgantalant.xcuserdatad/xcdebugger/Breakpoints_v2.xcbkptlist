@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "0CC29662-90F4-4C46-ADD5-244269591FD5"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E3AF0023-7658-4F9F-9A22-51E036E1A308"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Ascent/TransactionCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "TransactionCell"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "284151C7-0111-4BE2-839F-4A18FAD277AD"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Ascent/TransactionCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "TransactionCell"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "284151C7-0111-4BE2-839F-4A18FAD277AD - 6624317140e154e7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Ascent.TransactionCell.nameLabel.getter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "Ascent"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aiturgantalant/Desktop/Ascent/Ascent/TransactionCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0">
+               </Location>
+               <Location
+                  uuid = "284151C7-0111-4BE2-839F-4A18FAD277AD - be9233c0a407726b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Ascent.TransactionCell.nameLabel.setter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "Ascent"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aiturgantalant/Desktop/Ascent/Ascent/TransactionCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0">
+               </Location>
+               <Location
+                  uuid = "284151C7-0111-4BE2-839F-4A18FAD277AD - 88519d2dc16f6de9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Ascent.TransactionCell.nameLabel.modify : Swift.Optional&lt;__C.UILabel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Ascent"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aiturgantalant/Desktop/Ascent/%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0">
+               </Location>
+               <Location
+                  uuid = "284151C7-0111-4BE2-839F-4A18FAD277AD - c666add66c6becf4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Ascent.TransactionCell.nameLabel.modify : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "Ascent"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aiturgantalant/Desktop/Ascent/Ascent/TransactionCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12">
+               </Location>
+               <Location
+                  uuid = "284151C7-0111-4BE2-839F-4A18FAD277AD - c83cbe80c6b23ed2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Ascent.TransactionCell.init(style: __C.UITableViewCellStyle, reuseIdentifier: Swift.Optional&lt;Swift.String&gt;) -&gt; Ascent.TransactionCell"
+                  moduleName = "Ascent"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aiturgantalant/Desktop/Ascent/Ascent/TransactionCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12">
+               </Location>
+               <Location
+                  uuid = "284151C7-0111-4BE2-839F-4A18FAD277AD - f7824a5522713390"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Ascent.TransactionCell.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Ascent.TransactionCell&gt;"
+                  moduleName = "Ascent"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aiturgantalant/Desktop/Ascent/Ascent/TransactionCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
