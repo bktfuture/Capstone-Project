@@ -109,11 +109,22 @@ And users can switch between tabs.
 - [Add list of network requests by screen ]
 
 Sprint 2:
-[x] - Build Dashboard Screen
-[x] - Build Transaction Screen
-[x] -  Build Accounts Screen
-[x] - Put an icon for the app
-[x] - Build the item bar
-[x] - Build New Transaction Screen
-[] - Build the database
-[] - Ability to add income, expenses
+
+- [x] - Build Dashboard Screen
+- [x] - Build Transaction Screen
+- [x] -  Build Accounts Screen
+- [x] - Put an icon for the app
+- [x] - Build the item bar
+- [x] - Build New Transaction Screen
+
+Sprint 3:
+- [ ] - Build the database
+- [ ] - Ability to add income, expenses
+- [ ] - See the history of transactions
+- [ ] - Accounts update too
+
+
+
+<a href="https://www.loom.com/share/7f33d2d3f8e0458186fa7c6c99e53ebd">
+  <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/7f33d2d3f8e0458186fa7c6c99e53ebd-with-play.gif">
+  </a>
