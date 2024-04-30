@@ -117,11 +117,7 @@ Sprint 2:
 - [x] - Build the item bar
 - [x] - Build New Transaction Screen
 
-Sprint 3:
-- [ ] - Build the database
-- [ ] - Ability to add income, expenses
-- [ ] - See the history of transactions
-- [ ] - Accounts update too
+
 
 
 
